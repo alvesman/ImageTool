@@ -1,4 +1,5 @@
 # ImageTool
+<pre>
 Convert images between formats / resize / apply watermark
 
 Imagetool --help
@@ -14,4 +15,4 @@ Imagetool --help
   -y, --MaxHeight           (Default: 0) Target max Height
   --help                    Display this help screen.
   --version                 Display version information.
-
+</pre>
